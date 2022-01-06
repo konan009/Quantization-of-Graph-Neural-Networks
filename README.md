@@ -5,6 +5,9 @@ Graph Neural Networks (GNNs) on the other hand, is a class of deep learning meth
 
 The **accuracy** result is below here :
 
-![automaton](result.JPG)
+
+<p align="center">
+<img  src="https://github.com/konan009/Quantization-of-Graph-Neural-Networks/blob/main/result.JPG">
+ </p>
 
 **For more information** you can check the paper in the repository that is in PDF format.
